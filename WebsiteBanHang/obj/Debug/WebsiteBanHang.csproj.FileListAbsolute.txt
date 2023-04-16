@@ -1,0 +1,278 @@
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csprojResolveAssemblyReference.cache
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\ApplicationInsights.config
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\csc.exe
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\hocky2_nam3\Công nghệ web\Example\Buoi8\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\ApplicationInsights.config
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\csc.exe
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csprojAssemblyReference.cache
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\Asp.net\LaptopStore\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\ApplicationInsights.config
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\csc.exe
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csprojAssemblyReference.cache
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\khoaken\Doan\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\ApplicationInsights.config
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\csc.exe
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csprojAssemblyReference.cache
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\ASPP.net\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\ApplicationInsights.config
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\csc.exe
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\vbc.exe
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\WebsiteBanHang.pdb
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.Web.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Razor.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Webpages.Razor.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+C:\Users\Huy\Downloads\Compressed\BanOto\WebBanHang_LastVersion\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
